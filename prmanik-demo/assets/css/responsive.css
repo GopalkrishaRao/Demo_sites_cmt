@@ -1,0 +1,2009 @@
+@media(max-width: 1400px){
+	.gap {
+    padding-top: 100px;
+    padding-bottom: 100px;
+	}
+	.no-top {
+	    padding-top: 0;
+	}
+	.no-bottom {
+	    padding-bottom: 0;
+	}
+	.hero-section.three {
+    	background-position: top;
+	}
+	.organic-plant img {
+    	width: 40px;
+	}
+	.hero-section-three .slider-hero .owl-dots {
+	    left: 8.5%;
+	    bottom: 6%;
+	}
+	img.extra-images-three {
+	    left: -2%;
+	    position: absolute;
+	    top: 28%;
+	    width: 129px;
+	}
+	.slider-hero .owl-dots {
+    	bottom: 6%;
+	}
+	.reviews {
+    	padding-right: 11%;
+	}
+	.reviews h5 {
+    	font-size: 14px;
+	}
+	.certified-product-img > img {
+    	width: 45%;
+	}
+	.service-details .organic-plant {
+    	padding: 32px;
+    }
+	.zoom-slider .owl-dots {
+		position: absolute;
+		bottom: -13%;
+		left: 35%;
+	}
+	.navbar-links li.navbar-dropdown .dropdown a:not(:last-child):before {
+    	width: 80%;
+    }
+	.reviews ul li {
+    	font-size: 12px;
+	}
+	.product-info h2 {
+	    font-size: 34px;
+	    line-height: 46px;
+    }
+	button.owl-prev:before,button.owl-next:before {
+    	top: 20px;
+	}
+	.gummies.two img.graf-img {
+    	width: 24%;
+	}
+	.plant-option a {
+	    font-size: 18px;
+    }
+    form.variations_form ins span {
+    	font-size: 34px;
+	}
+    .products.two {
+	    width: 100%;
+	}
+    .section-anti-aging .heading.two {
+    	padding-bottom: 10px;
+    }
+    .cart-popup img {
+    	width: 62px;
+	}
+	.products img {
+		padding-left: 0;
+	}
+	.sustainability {
+    	padding: 30px;
+    }
+    .bannr-text h2 {
+        font-size: 54px;
+	    line-height: 70px;
+	    padding-bottom: 10px;
+    }
+    .slider-reviews .owl-nav {
+	    left: 95%;
+    }
+    .provide-high-img img.provide-high-one {
+    	width: 61%;
+	}
+	.section-pricing-plans img.extra-images-two {
+    	left: 3%;
+    }
+    #progress {
+	    height: 50px;
+	    width: 50px;
+    }
+    .clients-reviews p {
+    	line-height: 25px;
+	}
+	.clients-reviews img {
+		width: auto !important;
+	}
+    .sustainability i {
+	    width: 80px;
+	    height: 80px;
+    }
+    .nature-intended i {
+    	padding: 24px;
+    }
+    .sustainability i:before {
+    	top: 17px;
+    }
+	.bannr-section {
+	    padding-top: 210px;
+	    padding-bottom: 60px;
+	    overflow: hidden;
+	}
+    .cart-popup {
+    	padding: 20px 20px 20px;
+    }
+    .product-info-img {
+    	width: 93%;
+    }
+    .bannr-section img.dots {
+		width: 73px;
+		top: 46%;
+		right: 16%;
+	}
+    .clients-reviews-dots {
+    	padding: 10px 40px 10px 20px;
+    }
+    .footer-bottom {
+    	margin-top: 100px;
+	}
+	.navbar-links li.navbar-dropdown .dropdown {
+		padding-top: 8px;
+		padding-bottom: 8px;
+	    background-color: #fff;
+	}
+	.navbar-links li.navbar-dropdown .dropdown a {
+    	font-size: 14px;
+	    padding-left: 20px;
+	    padding-top: 10px;
+	    padding-bottom: 10px;
+	    border: 0;
+	    position: relative;
+	    text-transform: capitalize;
+	    color: #000;
+	    background-color: #FFF;
+	}
+    .sustainability h5 a {
+    	font-size: 24px;
+    }
+    .sidebar {
+    	padding: 30px;
+    }
+    .gallery-shop {
+    	padding-top: 100px;
+	}
+    .hero-section.three {
+		padding-top: 120px;
+		padding-bottom: 126px;
+	}
+    header.three .bottom-bar:before {
+    	width: 26%;
+    }
+    ul.recent-post span {
+    	font-size: 13px;
+    }
+    .recent-post i {
+	    padding-right: 6px;
+	    font-size: 13px;
+	}
+    .recent-post a {
+    	font-size: 16px;
+    }
+    .recent-post img {
+	    width: 90px;
+	    height: 90px;
+	}
+    form.request-quote {
+	    background-color: #fff;
+	    margin: 40px;
+    	padding: 33px 40px;
+	}
+	.slider-hero.owl-carousel .owl-item img {
+    	width: 80% !important;
+	}
+	form.request-quote p {
+    	width: 100%;
+    }
+    footer.three img.dots {
+    top: 29%;
+    width: 102px;
+    left: -1%;
+	}
+	.hero-text {
+    	padding-left: 0px; 
+   }
+   .pick-Your-Product {
+   	width: 100%;
+   }
+   .makes-conbiz > img {
+    width: 301px;
+    right: -6%;
+    top: 25%;
+	}
+	.nature-intended h5 {
+    	font-size: 18px;
+    }
+	.hero-section.three .slider-hero .owl-dots {
+    	bottom: -32%;
+	}
+   .need-help {
+    	padding-bottom: 40px;
+	}
+   .blogtwo-text a {
+    	width: 80%;
+    }
+    .content-us i {
+    	margin-top: 20px;
+    }
+    .hero-section-three .reviews {
+    	left: 9%;
+    }
+   .three-bar {
+	    padding-top: 12px;
+	    padding-bottom: 12px;
+	}
+	.differnce-products p {
+    	width: 90%;
+	}
+	.conbiz-products-back img.hero-icon {
+    	left: 2%;
+    	width: 80px;
+	}
+	.conbiz-products-back {
+		padding-bottom: 260px;
+	}
+   h1 {
+    	font-size: 50px;
+	}
+	.products-needs-text {
+    	width: 67%;
+	}
+	.plant-option a {
+    	width: 57%;
+    }
+    .hero-section-three img.hero-icon-1,
+	.hero-section img.hero-icon-1 {
+	    left: 0.6%;
+	    width: 90px;
+	}
+	.products {
+    	width: 100%;
+	}
+	.products.two {
+	    overflow: hidden;
+	}
+	.slider-hero .owl-dots {
+    	left: 8%;
+    	bottom: -10%;
+    }
+    .hero-section.two {
+    	padding-bottom: 60px;
+    }
+    h2 {
+   	 font-size: 44px;
+	}
+	.cbd-oil-dropper img.dots {
+    width: 100px;
+	}
+	img.leaf {
+    right: -7%;
+   }
+   .cbd-oil-dropper .video img {
+    padding: 30px;
+	}
+	.cbd-oil-dropper .video:before {
+    left: 4%;
+    width: 500px;
+    height: 500px;
+    top: 3.5%;
+   }
+   .selling-products > img.extra-images-two {
+    left: -20%;
+    width: 100px;
+	}
+	.selling-products > img {
+   	 padding: 30px 73px;
+   }
+   .accordion-img img.dots {
+    width: 100px;
+	}
+	.blog {
+    margin-left: 30px;
+    padding: 27px;
+    margin-bottom: 10px;
+    padding-top: 0;
+	}
+	.blog {
+    z-index: 1;
+    position: relative;
+	}
+	.blog h4 {
+    width: 140px;
+	}
+	img.extra-images-one {
+    left: 5px;
+   }
+   .footer-location h4 {
+    width: 87%;
+   }
+   footer img.extra-images-two {
+    width: 110px;
+    right: 1%;
+    top: 55%;
+	}
+   .widget-title > ul.links li:not(:last-child) {
+    padding-bottom: 14px;
+	}
+   img.extra-images-two {
+    top: 43%;
+    right: -7%;
+    z-index: 1;
+    width: 60px;
+	}
+   .accordion-img img.dots {
+	   z-index: -2;
+	   right: -5%;
+   }
+   .selling-products > img.dots {
+    left: 5%;
+    top: 10%;
+    width: 100px;
+	}
+   .section-reviews img.extra-images-two {
+    bottom: 15%;
+    width: 90px;
+    right: 1%;
+   }
+   .section-reviews img.dots {
+    right: 7%;
+	}
+   .cbd-oil-dropper-text {
+    padding-left: 30px;
+	}
+	.cbd-oil-dropper-text p {
+		padding-top: 0;
+	}
+   .section-products img.extra-images-two {
+    width: 60px;
+    left: 2%;
+	}
+   img.extra-images-for {
+    width: 160px;
+   }
+   .products {
+    width: 96%;
+   }
+	.money-back {
+    width: 100%;
+   }
+    .heading p {
+    	width: 96%;
+     padding-bottom: 20px; 
+	}
+    .hero-text p {
+    font-size: 18px;
+    padding-top: 10px;
+		}
+    .plant-based a {
+    	width: 84%;
+    }
+    .natural-img .natural-1 {
+	    margin-top: 111px;
+	    width: 189px;
+    }
+    .section-anti-aging .heading.two h2 {
+    	width: 100%;
+	}
+	.team-information figure {
+		width: 85%;
+		padding: 7px;
+		margin: auto;
+	}
+	.team-information figure img {
+    	width: 100%;
+	}
+}
+@media(max-width: 1200px){
+	.navbar,.top-bar,.header-search,.three-bar {
+		display: none;
+	}
+	.zoom-slider .owl-dots {
+		position: relative;
+		bottom: auto;
+		left: auto;
+	}
+	.product-info-img img {
+    	width: 80%;
+	}
+	.product-info-img img.info-img {
+		width: auto;
+	}
+	.two-bar {
+    	padding: 10px 0;
+    }
+	.slider-nav-two.slick-initialized.slick-slider.slick-dotted {
+    	width: 100%;
+    }
+    .zoom-slider {
+    	margin-bottom: 100px;
+	}
+	.our-blog .blogthree-text h2 {
+	    font-size: 30px;
+	    line-height: 40px;
+    }
+	.bannr-section {
+    	padding-top: 130px;
+    }
+    .team-page figure {
+	    height: auto;
+	    width: 45%;
+	}
+	.team-page figure img,.product-info {
+    	width: 100%;
+	}
+	.product-info h2 {
+	    font-size: 34px;
+	    line-height: 44px;
+    }
+    form.variations_form ins span {
+    	font-size: 32px;
+	}
+	span.price del {
+    	font-size: 16px;
+	}
+    .service-details h3 {
+	    font-size: 32px;
+	    padding-bottom: 6px;
+    }
+    .organic-plant img {
+    		margin-right: 19px;
+	}
+	.team-page h4 {
+    	font-size: 30px;
+    }
+    form.checkout-meta.donate-page .nice-select.Advice,
+    form.checkout-meta input {
+    	height: 55px;
+    }
+    .service-details .organic-plant {
+    		padding: 30px;
+    }
+    .bar-menu {
+    	display: block;
+    }
+   .cart_totals-checkout {
+   	padding-bottom: 30px;
+   }
+   .sidebar {
+    	padding: 20px;
+	}
+   header.three .bottom-bar:before {
+		width: 40%;
+	}
+	header.three .widget-title > ul.links li a {
+    	font-size: 13px;
+	}
+	.error {
+    	width: 70%;
+    }
+    form.checkout-meta.donate-page h4 {
+	    font-size: 24px;
+	    padding-top: 20px;
+	    padding-bottom: 10px;
+    }
+    form.checkout-meta.donate-page h3 {
+    	font-size: 34px;
+	}
+   header.two .bottom-bar {
+   	border-bottom: 0;
+   }
+   header.two .bar-menu i {
+    	color: #000;
+	}
+	.willimes-marko img {
+    	margin-right: 18px;
+    }
+    .prvious-story h5 {
+    line-height: 24px;
+    font-size: 16px;
+    }
+    .comment li {
+    	padding: 15px 20px;
+    }
+    .prvious-story {
+   	 padding: 28px;
+   }
+   .comment-data h4 {
+    font-size: 20px;
+    }
+    .comment-data span {
+    	font-size: 13px;
+    }
+    .blogthree-text {
+    	width: 97%;
+    }
+    .comment h3 {
+    font-size: 24px;
+    }
+   li.reply-comment {
+    margin-left: 38px;
+    width: 94%;
+	}
+    .willimes-marko h4 {
+    	font-size: 26px;
+	}
+	.pick-Your-Product a {
+    	font-size: 16px;
+	}
+	.bannr-text h2 {
+    	font-size: 54px;
+	    line-height: 48px;
+	    padding-top: 0px;
+	    padding-bottom: 15px;
+    }
+    .bannr-section img.extra-images-two {
+	    width: 40px;
+	    top: 45%;
+	    right: 11%;
+	}
+    .bannr-section img.dots {
+	    width: 70px;
+	    top: 41%;
+	    right: 16%;
+	}
+	.error h2 {
+		font-size: 160px;
+		line-height: 80px;
+    }
+    .error h3 {
+    	font-size: 30px;
+    }
+    .error-404 {
+		padding-top: 190px;
+		padding-bottom: 80px;
+	}
+	.error-404 img.leaf {
+		top: 43%;
+		right: 86%;
+		width: 100px;
+	}
+	.error-404 img.dots {
+	    top: 42%;
+	    right: 5%;
+	    width: 100px;
+	}
+	footer form {
+	    width: 100%;
+	}
+   .gap {
+    padding-top: 80px;
+    padding-bottom: 80px;
+	}
+	.products.two img,.products {
+    	width: 100%;
+	}
+	.pick-Your-Product i {
+	    width: 67px;
+	    padding: 10px;
+    }
+    .cbd-oil-dropper .video:before {
+    	display: none;
+    }
+    .gummies.two {
+    	padding: 30px 50px;
+    	padding-bottom: 0;
+    }
+    .gummies.two img.graf-img {
+    	width: 26%;
+	}
+	.off-pr {
+    	z-index: 1;
+	}
+    .section-certified-products:before {
+    	display: none;
+    }
+    .section-certified-products:before {
+    	width: 25%;
+    }
+    .certified-product-img figure {
+	    width: 87%;
+	    height: auto;
+	}
+	.no-top {
+	    padding-top: 0;
+	}
+	.no-bottom {
+	    padding-bottom: 0;
+	}
+	.gummies .video.two {
+    width: 42%;
+	}
+	.off-pr {
+	    width: 150px;
+	    height: 150px;
+    }
+	.off-pr h4 {
+    	font-size: 66px;
+    }
+	.provide-high-img img.provide-high-one {
+    	width: 77%;
+	}
+	.pricing-text {
+    	padding: 26px;
+    	padding-top: 40px;
+	}
+	.off-pr sub {
+    left: 65%;
+    font-size: 18px;
+    top: 38%;
+	}
+	.blogthree h3 {
+	    font-size: 16px;
+	    line-height: 26px;
+	}
+	.blogthree span {
+    	font-size: 12px;
+    }
+	.gummies-img h4 span {
+    	font-size: 33px;
+	}
+	.subscribe-text {
+    		width: 73%;
+    }
+    .gallery-shop {
+    	padding-top: 80px;
+	}
+    form.subscribe .btn {
+    		top: 31.5px;
+    }
+	.blogtwo-text {
+    bottom: 30px;
+    left: 30px;
+    }
+	.provide-high-img img.provide-high-two {
+    width: 100%;
+    top: 57px;
+    position: relative;
+	}
+	.conbiz-products-back {
+		padding-bottom: 260px;
+	}
+	.products.two:before {
+   		height: 49%;
+    }
+    .products.two h6 {
+    	bottom: 44%;
+	}
+	.products.two a {
+    	padding-top: 20px;
+    	font-size: 14px;
+	}
+	.products-needs-text {
+    width: 84%;
+	}
+	.differnce-products > i {
+    padding: 50px 22px;
+    margin-right: 24px;
+	}
+    .products {
+	    width:100%;
+	    padding: 30px 20px 20px 20px;
+    }
+	.plant-option a {
+    	font-size: 16px;
+    	width: 49%;
+	}
+	.claim-your {
+    	padding: 60px;
+    }
+	.claim-your h4 {
+    	font-size: 40px;
+    }
+	.hero-section.two .cbd-oil-dropper .video:before {
+	    left: 4%;
+	    width: 416px;
+	    height: 416px;
+	    top: 19px;
+	}
+   .bar-menu i {
+    color: #fff;
+   }
+   .hero-section {
+    padding-top: 130px;
+   }
+   .hero-text p {
+    font-size: 16px;
+    line-height: 26px;
+    padding-bottom: 28px;
+	}
+	.reviews ul li {
+    margin-right: 3px;
+	}
+	.footer-bottom {
+    margin-top: 80px;
+	}
+	.reviews h5 {
+    font-size: 16px;
+	}
+	footer {
+    padding-top: 80px;
+	}
+	.hero-img figure {
+    width: 69%;
+    position: absolute;
+    bottom: 0px;
+    left: -56px;
+	}
+	.cbd-oil-dropper .video:before {
+    left: 6%;
+    width: 310px;
+    height: 310px;
+    top: 6%;
+	}
+	.video i {
+    width: 74px;
+    height: 74px;
+   }
+	h2 {
+    font-size: 40px;
+	}
+	.cbd-oil-dropper .video img {
+    width: 100%;
+	}
+	ul.list-style li,
+	.heading p {
+    width: 100%;
+   }
+   .cbd-oil-dropper {
+    margin-top: 100px;
+    padding: 80px;
+    padding-bottom: 0;
+    margin-bottom: 0px;
+    padding-top: 38px;
+    padding-left: 38px;
+   }
+   .sustainability {
+    padding: 30px;
+   }
+   .sustainability i {
+    width: 80px;
+    height: 80px;
+    padding: 15px;
+   }
+   p {
+    font-size: 15px;
+    line-height: 26px;
+   }
+   img.extra-images-two {
+    right: -24%;
+   }
+   .blog a {
+    font-size: 18px;
+   }
+   .blog {
+    margin-left: 0;
+    padding: 15px;
+    margin-bottom: 10px;
+    padding-top: 0;
+	}
+	.blog-img .blog {
+    margin-top: -80px;
+    margin-right: 15px;
+	}
+	.blog h3 a {
+    padding-top: 24px;
+	}
+   .accordion-img img.dots {
+    z-index: -2;
+    right: -19%;
+	}
+   .sustainability:before {
+    width: 40px;
+    height: 40px;
+   }
+   .content p {
+    font-size: 16px;
+   }
+   .sustainability a svg {
+    width: 38px;
+	}
+   .sustainability i:before {
+    top: 18px;
+   }
+   .sustainability h5 a {
+    font-size: 22px;
+   }
+   .cbd-oil-dropper-text {
+    padding-bottom: 30px;
+	}
+   .heading.two {
+    padding-bottom: 20px;
+	}
+   .cbd-oil-dropper-text p {
+    padding-top: 0px;
+    padding-bottom: 10px;
+   }
+	h1 {
+    font-size: 44px;
+	}
+	.natural-img figure {
+    width: 46%;
+	}
+}
+@media(max-width: 993px){
+	.hero-text {
+		width: 70%;
+		margin: auto;
+		margin-bottom: 40px;
+		text-align: center;
+	}
+	.accordion-img figure {
+    	margin-bottom: 20px;
+	}
+	.hero-section.three .hero-text {
+		padding-bottom: 40px;
+	}
+	.reviews {
+	    padding-right: 0;
+	    justify-content: center;
+	}
+	.hero-section-three .slider-hero .owl-dots {
+		left: 0;
+		bottom: 25px;
+		position: absolute;
+	}
+	.footer-bottom-text p {
+    	text-align: center;
+	}
+	.hero-section-three .reviews {
+		left: 0;
+	}
+	.blogthree h3 {
+    	font-size: 20px;
+    	line-height: 30px;
+	}
+	.blogthree {
+		margin-bottom: 30px;
+	}
+	.product-info-img img {
+    	width: 28%;
+	}
+	.team-information {
+    	margin-bottom: 20px;
+	}
+	.slider-nav-two.slick-initialized.slick-slider.slick-dotted {
+    	text-align: center;
+	}
+	.cart_totals {
+    	margin-top: 30px;
+	}
+	.team-page h4 {
+    	padding-top: 40px;
+	}
+	.product-info {
+    	padding-top: 40px;
+	}
+	.team-page .mail-style h4 {
+    	padding-top: 0;
+	}
+	.clients-reviews-two {
+    	width: 80%;
+    }
+	.team-page {
+    	flex-wrap: wrap;
+	}
+	.service-details .content-us i {
+    	margin: 0;
+    }
+	.sidebar {
+    	padding: 40px;
+	}
+	.pagination {
+	    margin-bottom: 40px;
+	    margin-top: 0;
+    }
+    .team-page figure {
+	    margin-right: 0px;
+	    transform: translatex(00px) translateY(0px);
+	}
+	.team-page {
+    	padding: 40px;
+	}
+	.cart_totals-checkout {
+    	margin-top: 30px;
+	}
+	.team-page:before {
+		display: none;
+	}
+	.team-page figure {
+    	width: 77%;
+	}
+	.mobile-nav {
+		width: 50%;
+	}
+	.money-back-two {
+	    padding: 35px;
+	    margin-top: 25px;
+	}
+	.hero-section.three .reviews {
+	    position: relative;
+	    right: 0;
+	    bottom: 0;
+	}
+	img.extra-images-one,footer.three img.dots {
+		display: none;
+	}
+	.all-categories a {
+    	justify-content: left;
+		width: 225px;
+	}
+	.all-categories a svg {
+		margin-left: 16px;
+	}
+	.hero-section.two .cbd-oil-dropper {
+    		justify-content: center;
+		}
+	.hero-text p {
+		width: auto;
+	}
+	.hero-img {
+		justify-content: center;
+	}
+	.section-certified-products .heading.two {
+    	width: 100%;
+    }
+    .accordion.two {
+    	width: 100%;
+    	margin-top: 60px;
+	}
+	.makes-conbiz > img {
+    	top: 57%;
+	}
+	.cbd-oil-dropper.two .organ {
+		left: 14%;
+		top: 12%;
+	}
+	
+	.cbd-oil-dropper .video {
+	    margin-bottom: 0;
+	    margin-top: 40px;
+	}
+	.hero-section-three .reviews {
+	    left: 37%;
+	}
+	.hero-section-three img.hero-icon-1,.hero-section-three img.hero-icon-2,
+	.makes-conbiz:before {
+		display: none;
+	}
+	.slider-hero.owl-carousel .owl-item img {
+    width: 50% !important;
+	}
+	.gummies.two img.leaf-big {
+    	top: 35%;
+    }
+    .off-pr {
+	    right: 30%;
+	    top: 45%;
+    }
+	.hero-img figure {
+    width: 57%;
+    left: 9%;
+	}
+	ul.image-gallery li {
+    	width: 18%;
+	}
+	.cbd-oil-dropper .video img {
+    		width: 83%;
+	}
+	ul.image-gallery li figure,ul.image-gallery li figure img {
+    	height: 130px;
+    }
+    footer.three {
+    	padding-top: 180px;
+	}
+	.products.two:before,.section-request-ruote img.request-ruote-img {
+		display: none;
+	}
+	.gummies {
+    	padding-top: 60px !important;
+	}
+	.products.two a.wishlist {
+    		background-color: #ededed;
+	}
+	.products.two h6 {
+    bottom: 33%;
+	}
+	.products-needs {
+    margin-bottom: 20px;
+	}
+	.gummies {
+    flex-wrap: wrap;
+    padding-bottom: 40px;
+	}
+	.gummies:before {
+    	height: 45%;
+	}
+	.gummies {
+    	padding-top: 30px !important;
+	}
+	.pricing-text {
+    margin-bottom: 30px;
+	}
+	.hero-section.two .cbd-oil-dropper img.hero-icon-two {
+    	right: 17%;
+	}
+	.content-us {
+    	margin-bottom: 25px;
+	}
+	.subscribe {
+	    padding: 75px 0;
+    }
+	.provide-high-img img.provide-high-one {
+    width: 57%;
+    top: 12%;
+	}
+	.provide-high-img img.provide-high-two {
+    width: 54%;
+    top: 57px;
+    position: relative;
+	}
+	.provide-high-img {
+    padding-bottom: 100px;
+	}
+	.gummies .video.two {
+    width: 100%;
+    margin: 0;
+	margin-bottom: 40px;
+	}
+	.gummies-text .heading.two {
+		text-align: center;
+	}
+	.gummies-text {
+    width: 100%;
+    text-align: center;
+	}
+	.differnce-products-all {
+    margin-top: 25px;
+    height: 100px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+	}
+	.nav-pills .nav-link {
+    margin-right: 8px;
+    padding: 6px 16px;
+    font-size: 14px;
+	}
+	.claim-your .claim-your-text {
+    		width: 100%;
+		}
+	.plant-option {
+    		margin-top: 20px;
+	}
+	.plant-option a {
+    font-size: 16px;
+    width: 66%;
+	}
+	.hero-section.two .cbd-oil-dropper .video:before {
+    left: 11.5%;
+    width: 410px;
+    height: 410px;
+    top: 16px;
+	}
+	.hero-section img.hero-icon-2,
+	.hero-section img.hero-icon-1 {
+		display: none;
+	}
+	.natural-img figure {
+    width: 35%;
+	}
+	.tag-cbd {
+    justify-content: space-between;
+	}
+	.money-back {
+    padding: 40px 40px;
+    margin-top: 60px;
+   }
+	.anti-aging-img {
+    margin-bottom: 40px;
+	}
+	img.dots {
+    width: 100px;
+    right: -10%;
+	}
+	img.leaf {
+    right: -7%;
+    width: 75px;
+	}
+	img.hero-icon {
+    left: -15%;
+	}
+	.money-back p {
+    width: 98%;
+   }
+   .cbd-oil-dropper {
+    flex-wrap: wrap;
+	}
+	.plant-based {
+    margin-bottom: 30px;
+	}
+	.cbd-oil-dropper .video {
+    margin-bottom: 40px;
+	}
+	#countdown ul {
+		padding-bottom: 0;
+	}
+	.accordion-img figure.accordion-img-two {
+    margin-top: -240px;
+    margin-left: 230px;
+	}
+	img.extra-images-two {
+    right: -7%;
+	}
+	.blog-img .blog {
+    margin-top: -80px;
+    margin-right: 0;
+	}
+	.blog h4 {
+    margin-right: 20px;
+    padding-top: 18px;
+   }
+	.accordion-img img.dots {
+    z-index: -2;
+    right: -5%;
+	}
+	#countdown {
+		margin-bottom: 0;
+	}
+	h2 {
+    font-size: 34px;
+	}
+	.cbd-oil-dropper .video:before {
+    left: 20%;
+    width: 320px;
+    height: 320px;
+    top: 5%;
+	}
+	.cbd-oil-dropper .video img {
+    padding: 30px;
+    margin: 0;
+	}
+	.slider-hero .owl-dots {
+    position: relative;
+    width: 100%;
+    text-align: center;
+    left: 0;
+    margin-top: 20px;
+	}
+	.widget-title ul.social-media {
+    margin-top: 20px;
+    margin-bottom: 20px;
+	}
+	.footer-bottom-text {
+	    flex-wrap: wrap;
+	    justify-content: center;
+	    gap: 16px;
+	}
+	.footer-bottom-text ul {
+    padding-top: 10px;
+	}
+	.widget-title > ul.links li a {
+    	font-size: 14px;
+	}
+	.hero-section.three {
+	    padding-top: 80px;
+	    padding-bottom: 40px;
+	}
+	.hero-section.three .slider-hero .owl-dots {
+    	bottom: 0%;
+	}
+	.section-certified-products .heading.two{
+		padding-top: 0;
+	}
+	.products-list {
+    	flex-wrap: wrap;
+	}
+	.products-list h6 {
+    	padding-bottom: 10px;
+	}
+}
+@media(max-width: 768px){
+	h1 {
+    font-size: 37px;
+	}
+	table.shop_table td.product-name img {
+    		margin-left: 0;
+    }
+    th.product-name {
+    	padding-left: 30px;
+	}
+	th.product-price,th.product-quantity,th.product-subtotal {
+		padding-left: 10px;
+	}
+	.sort-by {
+    	flex-wrap: wrap;
+	}
+	.hero-section.three {
+	    background-size: cover;
+	    background-position: top;
+	}
+	.cbd-oil-dropper .video {
+	    margin-bottom: 40px;
+	    margin-top: 0;
+	}
+	table.shop_table {
+    		margin-bottom: 21px;
+	}
+	.gummies-img  .position-relative {
+    	left: 50%;
+	}
+	ul.specification li {
+    	font-size: 14px;
+	}
+	.clients-reviews-two {
+    	width: 100%;
+    }
+    ul.specification li h6 {
+		padding: 16px 20px;
+		width: 170px;
+		margin-right: 30px;
+    }
+    .product-info-img img {
+    	width: 60%;
+	}
+	.coupon-area {
+    	margin-top: 50px;
+	}
+	.service-details h3 {
+    	font-size: 28px;
+    }
+    .product-info h2 {
+	    font-size: 28px;
+	    line-height: 38px;
+	}
+	.mobile-nav {
+		width: 75%;
+	}
+	.coupon-area {
+    		padding: 35px;
+    }
+	.products-list #v-pills-tab {
+		margin: 0;
+	}
+	.products-list .nice-select.Advice {
+		margin: 0;
+    width: 100%;
+    height: 60px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+	}
+	.products-list {
+	    display: block;
+	    margin-bottom: 40px;
+	}
+	form.leave input {
+	    height: 54px;
+	    margin-bottom: 14px;
+    }
+	header.three .bottom-bar:before {
+    	width: 49%;
+	}
+	form.leave textarea {
+		margin-top: 0;
+		height: 140px;
+	}
+	.error {
+    	width: 100%;
+	}
+	.social-media-Intege {
+    	flex-wrap: wrap;
+	}
+	.willimes-marko h4 {
+	    font-size: 26px;
+	    padding-bottom: 6px;
+	}
+	.blog-details h2 {
+	    font-size: 28px;
+	    line-height: 38px;
+	}
+	.gummies-img  .position-relative {
+	    margin-left: 0%;
+	}
+	.makes-conbiz > img {
+	    top: auto;
+	    bottom: 7%;
+	}
+	.all-categories {
+    	flex-wrap: wrap;
+	}
+	.error h3 {
+    	font-size: 26px;
+	}
+	button.error-button {
+	    width: 46px;
+	    height: 46px;
+    }
+	.error h2 {
+	    font-size: 120px;
+	    line-height: 60px;
+	}
+	.error input {
+    	height: 56px;
+    }
+	.off-pr h4 {
+    	font-size: 46px;
+	}
+	.off-pr {
+	    width: 120px;
+	    height: 120px;
+	}
+	.off-pr sub {
+	    left: 68%;
+	    font-size: 13px;
+	    top: 36%;
+	}
+	.gummies-img h4 span {
+    	font-size: 20px;
+	}
+	.off-pr {
+	    right: 28%;
+	    top: 49%;
+	}
+	.gummies.two img.leaf-big {
+		display: none;
+	}
+	.certified-product-img > img {
+	    top: 56%;
+    	width: 200px;
+	}
+	ul.image-gallery li {
+    	width: 31%;
+	}
+	.all-categories a {
+	    width: 100%;
+	    margin-top: 18px;
+	}
+	.natural-img {
+    gap: 10px;
+	}
+	.video.two img {
+	    width: 100%;
+	}
+	footer input {
+	    height: 50px;
+	    margin-bottom: 10px;
+	}
+
+	.natural-img figure {
+    width: 48%;
+	}
+	.products.two h6 {
+    	bottom: 40%;
+	}
+	.gummies-text form input {
+    	height: 50px;
+    }
+	.natural-img figure img {
+		width: 100%;
+		height: auto;
+	}
+	.footer-number {
+    	margin-top: 22px;
+	}
+	.widget-title h3 {
+    	padding-bottom: 10px;
+    }
+	ul.image-gallery li figure, ul.image-gallery li figure img {
+    	height: 100px;
+	}
+	.hero-section.two .cbd-oil-dropper .video:before {
+		display: none;
+	}
+	.hero-text {
+    	width: 100%;
+    }
+    .hero-text .d-flex {
+	    display: flex!important;
+	    align-items: center;
+	}
+    .gummies {
+    	margin-bottom: 80px;
+    }
+	.natural-img .natural-1 {
+		margin-top: 0;
+	}
+	.section-provide-high .heading {
+    	width: 100%;
+	}
+	.blogtwo-text a {
+    	width: 66%;
+    	font-size: 18px;
+    }
+	.plant-option a {
+    	width: 77%;
+	}
+	ul.social-networking {
+    	flex-wrap: wrap;
+    	gap: 16px;
+	}
+	.subscribe-text {
+    	width: 100%;
+	}
+	.btn {
+    font-size: 14px;
+    line-height: 26px;
+    padding: 12px 36px;
+   }
+   .reviews ul li {
+    font-size: 12px;
+	}
+	.zoom-slider button.owl-dot, .trending-slider button.owl-dot, .slider-reviews button.owl-dot, .slider-hero button.owl-dot, .products-slider button.owl-dot,
+	.zoom-slider button.owl-dot.active, .trending-slider button.owl-dot.active, .slider-reviews button.owl-dot.active, .products-slider button.owl-dot.active, .slider-hero button.owl-dot.active {
+		width: 40px;
+	}
+	.money-back {
+    flex-wrap: wrap;
+    background-size: cover;
+    object-fit: cover;
+    text-align: center;
+    justify-content: center;
+	}
+	.money-back .theme-title {
+    margin-bottom: 20px;
+	}
+	.cbd-oil-dropper .video:before {
+    left: 3%;
+    width: 370px;
+    height: 370px;
+    top: 3%;
+	}
+	.clients-reviews {
+    width: 96%;
+	}
+	img.extra-images-two {
+    right: 1%;
+	}
+	img.extra-images-two {
+    right: -12%;
+	}
+	.blog h4 {
+    padding-top: 30px;
+	}
+	img.extra-images-one {
+    width: 60px;
+    left: 15px;
+	}
+	.widget-title h3 {
+    padding-bottom: 20px;
+    padding-top: 38px;
+	}
+	.accordion-img figure.accordion-img-two {
+    margin-left: 130px;
+	}
+	.clients-reviews img {
+    margin-right: 20px;
+   }
+	.products-slider.owl-carousel .owl-item img {
+    width: auto;
+    margin: auto;
+	}
+	.heading h2 {
+		width: 100%;
+	}
+}
+@media(max-width: 576px){
+	.hero-text {
+    	width: 90%;
+   	}
+   	.gummies .video.two img {
+    	width: 100%;
+	}
+	ul.social-networking {
+    	justify-content: flex-start;
+	}
+   	.product-info-img {
+		width: 100%;
+	}
+	.content-us i {
+    	margin-top: 8px;
+	}
+	.content-us {
+    	margin-bottom: 30px;
+	}
+	.money-back > div {
+    	margin-bottom: 20px;
+	}
+   	.organic-plant img {
+	    margin-right: 19px;
+	    width: 35px;
+	}
+	.tab-content .form-reviews {
+    	padding: 30px;
+    }
+    .product-info-img img.info-img {
+    	width: 80px;
+	}
+   .team-information:hover:before {
+    	left: 95%;
+	}
+   .comment li {
+    	flex-wrap: wrap;
+	}
+	.our-blog .blogthree-text h2 {
+	    line-height: 34px;
+	    font-size: 22px;
+	}
+	.tab-content .form-reviews h3 {
+    		font-size: 30px;
+	}
+	.start i {
+	    font-size: 15px;
+	    padding-right: 2px;
+    }
+	.money-back-two h4,
+	.service-details h3 {
+    	font-size: 26px;
+    }
+	form.checkout-meta.donate-page h3 {
+    	font-size: 28px;
+	}
+   h2,.money-back h4 {
+    font-size: 32px;
+	}
+	.blog-details  .blog-img {
+    	margin-top: 20px;
+	}
+	.cart_totals-checkout {
+		padding-bottom: 30px;
+	}
+	.bannr-text h2 {
+	    font-size: 40px;
+	    line-height: 42px;
+    }
+	.mobile-nav {
+		width: 100%;
+	}
+	.gummies.two {
+	    padding: 30px 30px;
+	    padding-bottom: 0;
+	}
+	.blog-details .blogthree-text {
+	    padding-bottom: 0;
+	}
+	.quote {
+    	flex-wrap: wrap;
+	}
+	.off-pr {
+	    right: 8%;
+	    top: 54%;
+	}
+	.prvious-story {
+    	padding: 18px;
+	}
+	.willimes-marko {
+    	flex-wrap: wrap;
+	}
+	.prvious-story h3 {
+    	font-size: 11px;
+    }
+	.prvious-story h5 {
+	    line-height: 20px;
+	    font-size: 12px;
+	}
+	.willimes-marko img {
+	    margin: 0;
+	    margin-bottom: 14px;
+	}
+	li.reply-comment {
+	    margin-left: 18px;
+	    width: 94%;
+	}
+	.makes-conbiz > img {
+		display: none;
+	}
+	.products.two ul.star {
+	justify-content: flex-start;
+	    margin-bottom: 0;
+	    padding-bottom: 13px;
+	}
+	.organic-plant {
+    	width: 100%;
+	}
+	form.request-quote {
+	    margin: 20px;
+	    padding: 30px;
+	}
+	form.request-quote h3 {
+	    font-size: 22px;
+	    padding-bottom: 10px;
+	}
+	.request-quote input,.request-quote label,
+	form.request-quote p {
+    	font-size: 14px;
+	}	
+	.content-us i {
+	    width: 80px;
+	    height: 80px;
+	    padding: 22px;
+    }
+	.clients-testimonials {
+    	padding: 35px 30px;
+	}
+	.content-us i:before {
+	    top: 17px;
+	    left: 108%;
+	}
+	.cbd-oil-dropper.two .organ {
+    	width: 100px;
+	}
+	.products.two h6 {
+    	bottom: 156px;
+	}
+	.trending-products-text ul.star {
+	    justify-content: left;
+	    margin-bottom: 6px;
+	}
+	.section-reviews img.extra-images-two,.selling-products > img.extra-images-two,.accordion-img figure,
+   img.hero-icon,img.leaf,img.dots,.cbd-oil-dropper img.dots,footer img.extra-images-two,img.extra-images-two,
+   .cbd-oil-dropper .video:before,.anti-aging-img img.dots-2,img.extra-images-for,img.extra-images-one {
+   	display: none;
+   }
+	.accordion-img figure.accordion-img-two {
+	    width: 100%;
+	    margin-left: 0;
+	    margin-top: 0;
+	}
+   .cbd-oil-dropper .video img {
+    padding: 10px;
+   }
+   .heading h6 {
+   	font-size: 14px;
+   	letter-spacing: 0;
+   	padding-bottom: 4px;
+   }
+   .cbd-oil-dropper-text {
+   	padding-left: 0;
+   }
+   .cbd-oil-dropper {
+    padding: 30px;
+	}
+	.cbd-oil-dropper-text h6 {
+    font-size: 13px;
+   }
+   .slider-reviews .owl-dots {
+	    text-align: left;
+	    position: relative;
+	    text-align: center;
+	    margin-top: 80px;
+	}
+	.clients-reviews {
+    width: 90%;
+    flex-wrap: wrap;
+    text-align: center;
+    margin: auto;
+    border: 3px solid var(--theme-colour);
+	}
+	ul.star {
+    justify-content: center;
+    margin-bottom: 20px;
+	}
+   .clients-reviews {
+	    padding-right: 20px;
+	    padding-left: 20px;
+	    padding-top: 20px;
+	}
+	.selling-products > img {
+    padding: 30px;
+    width: 79%;
+	}
+	.products-text h3 {
+    font-size: 26px;
+    line-height: 35px;
+    padding-bottom: 14px;
+	}
+	.accordion-img figure.accordion-img-two {
+    width: 100%;
+    margin-left: 0;
+	}
+	.selling-products .video {
+    left: -30%;
+    z-index: 1;
+	}
+	.products-text {
+    width: 100%;
+    margin-left: 0;
+	}
+	.slider-reviews .owl-nav {
+    margin-top: 17px;
+	}
+	.slider-reviews.owl-carousel .owl-item img {
+    margin: auto;
+    margin-bottom: 22px;
+	}
+	.cbd-oil-dropper-text {
+		padding-bottom: 0;
+	}
+	.slider-reviews .owl-nav {
+	    text-align: center;
+	    position: relative;
+	    top: 10px;
+	    left: 50%;
+	}
+	.blog h3 a {
+    	padding-top: 20px;
+	}
+	.hero-section.two .cbd-oil-dropper img.hero-icon-two {
+	    right: 4%;
+	    width: 100px;
+	}
+	.claim-your h4 {
+    	font-size: 26px;
+	}
+	#v-pills-tab {
+    	gap: 10px;
+	}
+}
+@media(max-width: 483px){
+	.blog h5 {
+   	 font-size: 11px;
+   }
+   ul.specification li h6 {
+	    font-size: 13px;
+	    padding: 12px 14px;
+	    width: 122px;
+	    margin-right: 15px;
+	}
+	.blog {
+	    padding: 8px;
+	    padding-top: 0;
+	}
+	.blog h4 {
+    	margin-right: 10px;
+    }
+	.gummies-img  .position-relative {
+    	left: 17%;
+	}
+	ul.specification li,
+   ul.product_meta li a,ul.product_meta span.theme-bg-clr {
+    	font-size: 13px;
+	}
+   .team-page {
+    	padding: 30px;
+	}
+   .service-details .organic-plant {
+    	flex-wrap: wrap;
+	}
+	.nav-pills .nav-link {
+		margin-right: 8px;
+		padding: 6px 3px;
+		font-size: 12px;
+	}
+   .claim-your {
+    padding: 34px;
+	}
+	.service-details .organic-plant img {
+    width: 38px;
+    margin: 0;
+    margin-bottom: 16px;
+	}
+	.gummies:before {
+    	height: 24%;
+	}
+	.team-page h4 {
+    	padding-top: 30px;
+    	font-size: 26px;
+	}
+	.team-page ul.social-media li a {
+	    width: 40px;
+	    height: 40px;
+	    margin-bottom: 5px;
+    }
+    .team-page .social-media {
+	    top: 5%;
+	    right: 20px;
+	}
+	.money-back-two h4 {
+		font-size: 20px;
+	}
+	.service-details .video img {
+		height: 230px;
+		object-fit: cover;
+	}
+	.service-details .video {
+   		margin-top: 26px;
+	}
+	.gummies-text form button {
+    right: 0;
+    position: relative;
+    width: 100%;
+    margin-top: 10px;
+	}
+	.differnce-products h4 a {
+    	font-size: 16px;
+    }
+    .differnce-products p {
+    	font-size: 14px;
+    	width: 100%;
+    }
+    .blogtwo img {
+    	height: 300px;
+    object-fit: cover;
+	}
+	form.subscribe .btn {
+    top: 10px;
+    position: relative;
+    width: 100%;
+    right: 0;
+	}
+    .provide-high-img img.provide-high-two {
+    	width: 88%;
+    }
+    .blogtwo-text a {
+    	width: 90%;
+    }
+    .differnce-products a i {
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: 18px;
+	}
+	.differnce-products svg {
+    	width: 40px;
+	}
+	.differnce-products > i {
+	    padding: 40px 12px;
+	    margin-right: 24px;
+	}
+}
+@media(max-width: 450px){
+	.slider-hero.owl-carousel .owl-item img {
+    	width: 66% !important;
+	}
+	.three .bottom-bar:before {
+    	width: 55%;
+	}
+	.blog h5 {
+	    padding-right: 10px;
+	    font-size: 10px;
+	}
+	.hero-section-three .reviews {
+    	left: 19%;
+    }
+	.service-details h3 {
+    	font-size: 22px;
+    }
+	header .logo img {
+    	width: 140px;
+	}
+	.title {
+    	padding-left: 18px;
+    }
+    .content {
+    	padding: 12px 20px;
+    }
+	.plant-option a {
+    	width: 64%;
+	}
+	.tag-cbd img {
+    width: 100px;
+	}
+	h1 {
+    font-size: 30px;
+	}
+	.natural-img {
+    gap: 5px;
+	}
+	.natural-img figure {
+    width: 43%;
+	}
+	.blog {
+    padding-top: 0;
+    padding-right: 10px;
+    padding-bottom: 16px;
+	}
+	.blog a {
+    font-size: 16px;
+    line-height: 26px;
+	}
+	.anti-aging-img .collnumber {
+    padding: 10px 40px;
+   }
+   h2 ,.money-back h4{
+    font-size: 28px;
+	}
+	#countdown ul li {
+    margin-right: 2px;
+   }
+	footer {
+    padding-top: 60px;
+	}
+	.widget-title h3 {
+    font-size: 20px;
+   }
+   .widget-title > ul.links li:not(:last-child) {
+    padding-bottom: 10px;
+	}
+   .widget-title > ul.links li a {
+    font-size: 14px;
+	}
+	a.video-pop {
+		margin-left: 10px;
+		font-size: 0px;
+	}
+}
+@media(max-width: 410px){
+	.differnce-products > i {
+	    padding: 60px 12px;
+	    margin-right: 24px;
+	}
+	.cart_totals,.coupon-area {
+    	padding: 26px;
+    }
+	ul.list-style li {
+	    font-size: 14px;
+	}
+	.sidebar {
+    	padding: 30px;
+	}
+	ul.image-gallery li {
+    	width: 47%;
+	}
+	.breadcrumb-item+.breadcrumb-item::before {
+    	padding-right: 10px;
+	}
+	.breadcrumb a, .breadcrumb-item.active {
+    	font-size: 14px;
+	}
+	.blog-details h2 {
+	    font-size: 24px;
+	    line-height: 34px;
+	}
+	.breadcrumb-item+.breadcrumb-item {
+    	padding-left: 10px;
+	}
+	.bannr-text h2 {
+	    font-size: 34px;
+	    line-height: 32px;
+    }
+    .anti-aging-img .collnumber i {
+	    width: 56px;
+	    height: 56px;
+	    padding: 16px;
+	}
+	.anti-aging-img .collnumber a {
+    	font-size: 16px;
+    }
+    .anti-aging-img .collnumber h4 {
+    	font-size: 12px;
+    }
+    .anti-aging-img .collnumber {
+    	top: 90%;
+    }
+    .willimes-marko h4 {
+    	font-size: 20px;
+    }
+}
+@media(max-width: 375px){
+	.natural-img figure {
+    	width: 39%;
+	}
+	.quote h3 {
+    	font-size: 18px;
+    	line-height: 32px;
+	}
+	.error-404 {
+	    padding-top: 150px;
+	    padding-bottom: 60px;
+	}
+	.sidebar {
+    	padding: 26px;
+	}
+	.recent-post img {
+	    width: 77px;
+	    height: 77px;
+	}
+	h1 {
+    	font-size: 28px;
+	}
+	.gummies-img  .position-relative {
+	    left: 19%;
+	    width: 60%;
+	}
+	.widget-title h5 a {
+    	font-size: 20px;
+    }
+}
